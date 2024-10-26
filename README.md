@@ -1,6 +1,6 @@
 # 🚗 Electric Vehicle Sales Dashboard 📊
 
-![Electric Vehicle Sales Dashboard](./Screenshot%202024-10-26%20205155.png)
+![Electric Vehicle Sales Dashboard](https://github.com/JPraj902/Electric-Vehicle-Dashboard/blob/main/Electric%20Vehlice%20Sales.png)
 
 > An insightful and interactive dashboard that visualizes key metrics and trends in the Electric Vehicle (EV) market, developed using Power BI.
 
